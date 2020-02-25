@@ -1,0 +1,140 @@
+
+.nav { 
+	width: 100%;
+	height: 70px;
+	background-color: #212121;
+}
+
+img.logo {
+	height: 35%;
+	margin-top: 25px;
+	margin-left: 25px;
+	float: left;
+}
+
+img.menu {
+	height: 70px;
+	float: right;
+}
+
+
+div.monogram {
+	/*background-color: blue;*/
+	width: 100px;
+	height: 100px;
+	padding-top: 100px;
+	margin: auto;
+}
+
+div.slogan {
+	/*background-color: pink;*/
+	width: 900px;
+	height: 60px;
+	margin: auto;
+	text-align: center;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 35px;
+	letter-spacing: 0.1em;
+	color: #212121;
+}
+
+div.about {
+	/*background-color: yellow;*/
+	width: 800px;
+	height: 400px;
+	margin: auto;
+	padding-top: 60px;
+	text-align: left;
+	font-family: attribute-mono, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 17px;
+	letter-spacing: 0.03em;
+	line-height: 1.7em;
+	color: #212121;
+}
+
+
+
+img.imageone {
+	width: 100%;
+}
+
+img.imagetwo {
+	width: 100%;
+}
+
+img.imagethree {
+	width: 100%;
+}
+
+
+div.titles {
+	margin: auto;
+	/*background-color: yellow;*/
+	height: 450px;
+	width: 900px;
+}
+div.fineartprinting {
+	
+	height: 75px;
+	width: 33.3%;
+	text-align: center;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 35px;
+	letter-spacing: 0.1em;
+	color: #3d9991;
+	float: left;
+}
+div.bespokeframing {
+	
+	height: 75px;
+	width: 33.3%;
+	text-align: center;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 35px;
+	letter-spacing: 0.1em;
+	color: #3d9991;
+	float: left;
+}
+div.recentwork {
+	
+	height: 75px;
+	width: 33.3%;
+	text-align: center;
+	font-family: 'Pathway Gothic One', sans-serif;
+	font-size: 35px;
+	letter-spacing: 0.1em;
+	color: #3d9991;
+	float: left;
+}
+
+div.social {
+	height: 90px;
+	width: 100%;
+	background-color: #333333;
+
+}
+
+
+img.buttons {
+	height: 60px;
+	padding-top: 10px;
+	display: block;
+	margin: 0px auto;
+}
+
+div.contact {
+	height: 200px;
+	width: 100%;
+	background-color: #212121;
+	text-align: center;
+	padding-top: 60px;
+	font-family: attribute-mono, sans-serif;
+	font-style: normal;
+	font-weight: 100;
+	font-size: 15px;
+	letter-spacing: 0.03em;
+}
+
+
